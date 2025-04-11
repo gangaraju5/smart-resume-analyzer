@@ -6,7 +6,7 @@ from PIL import Image
 import pdf2image
 import google.generativeai as genai
 
-GOOGLE_API_KEY = "....PUT YOUR API KEY HERE..."
+GOOGLE_API_KEY = "AIzaSyBrfiH1lneiPXg-_pXqK0uKT5MUy-_Ij5g"
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
