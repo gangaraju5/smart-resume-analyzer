@@ -1,6 +1,6 @@
 streamlit
-Pillow
-pdf2image
-google-generativeai
-google-auth
-base64
+pdfminer.six
+sentence-transformers
+scikit-learn
+groq
+python-dotenv
